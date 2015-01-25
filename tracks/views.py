@@ -7,4 +7,4 @@ def track_view(request, title):
 
 	track = get_object_or_404(Track, title=title)
 
-	return HttpResponse('Ok')
+	return render(request, 'track.html', {'track': track})
