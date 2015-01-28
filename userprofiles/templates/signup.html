@@ -5,17 +5,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Track</title>
+	<title>Sign Up</title>
 </head>
 <body>
 	<div>
-		<p>Title: {{track.title}}</p>
-		<p>Order: {{track.order}}</p>
-		<p>File: {{track.track_file}}</p>
-		<p>Album: {{track.album}}</p>
-		<p>Artist: {{track.artist}}</p>
-		<p>Biography:  {{track.artist.biography}}</p>
-		<p>Biography: {{bio}} </p>
+		<form action="" method="post">
+			{% csrf_token %}
+			{{form.as_p}}
+			<input type="submit" value="Submit">
+		</form>
 	</div>
 </body>
 </html>
