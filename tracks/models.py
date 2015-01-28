@@ -17,7 +17,7 @@ class Track(models.Model):
 			<source src="%s" type="audio/mpeg">
 			Your browser does not support the audio tag.
 		</audio>
-		"""% self.track_file.url
+		""" % self.track_file.url
 
 	player.allow_tags = True
 
