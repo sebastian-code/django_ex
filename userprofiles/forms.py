@@ -24,4 +24,13 @@ class EmailAuthenticationForm(forms.Form):
 
 		self.user_cache = authenticate(email=email, password=password)
 
-		
+		if self.user_cache is None:
+			raise forms.ValidationError('Usuario incorrecto')
+
+		elif not self.user_cache.is_active:
+			raise forms.ValidationError('El usuario esta inactivo')
+
+		return self.cleaned_data
+
+	def get_user(self):
+		return self.user_cache
