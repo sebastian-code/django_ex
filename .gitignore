@@ -1,4 +1,9 @@
-
+*.mp3
+*.MP3
+*.jpg
+*.JPG
+*.bmp
 *.pyc
 *.sqlite3
 *.sublime-project
+/media
