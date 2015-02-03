@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'mockups',
     'userprofiles',
+    'django_extensions',
     'south',
     'tracks',
     'albums',
