@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"View",
+				"View"
+			],
+			[
+				"__",
+				"__file__"
+			],
+			[
+				"artist",
+				"artist__first_name"
+			],
+			[
+				"tra",
+				"TrackAdmin"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"clen",
+				"cleaned_data"
+			],
+			[
+				"user",
+				"user_cache"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"Email",
+				"EmailAuthenticationForm"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
 				"get",
 				"get_object_or_404"
 			],
@@ -27,21 +71,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/actions.py",
+			"settings":
+			{
+				"buffer_size": 1972,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 232.0,
 		"selected_items":
 		[
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 575.0
 	},
 	"console":
 	{
 		"height": 139.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -53,9 +122,38 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/maestro/Workspace/Sfoti.py",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/templates"
+	],
 	"file_history":
 	[
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/urls.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/login.html",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/.gitignore",
+		"/home/maestro/Workspace/Sfoti.py/src/.gitignore",
+		"/home/maestro/Workspace/dialisyst_dev/.gitignore",
+		"/home/maestro/Workspace/wiznet_conf/.gitignore",
+		"/home/maestro/Workspace/dialisyst_dev/.project",
+		"/home/maestro/Workspace/web_portfolio/index.html",
+		"/home/maestro/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/maestro/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/maestro/Workspace/Sfoti.py/src/userprofiles/urls.py",
+		"/home/maestro/Workspace/Sfoti.py/src/userprofiles/views.py",
+		"/home/maestro/Workspace/Sfoti.py/src/tracks/models.py",
+		"/home/maestro/Workspace/Sfoti.py/src/tracks/admin.py",
 		"/home/maestro/Workspace/Sfoti.py/src/src/settings.py",
+		"/home/maestro/Workspace/Sfoti.py/src/userprofiles/forms.py",
+		"/home/maestro/Workspace/Sfoti.py/src/userprofiles/templates/signin.html",
+		"/home/maestro/Workspace/Sfoti.py/src/userprofiles/templates/signup.html",
+		"/home/maestro/Workspace/Sfoti.py/src/src/urls.py",
+		"/home/maestro/Workspace/Sfoti.py/src/userprofiles/backends.py",
+		"/home/maestro/Workspace/wiznet_conf/credits.txt",
+		"/home/maestro/Workspace/wiznet_conf/README.md",
+		"/home/maestro/Workspace/Sfoti.py/src/manage.py",
 		"/home/maestro/Workspace/Sfoti.py/src/tracks/templates/track.html",
 		"/home/maestro/Workspace/Sfoti.py/src/tracks/views.py",
 		"/home/maestro/Workspace/web_portfolio/pages/projects.html",
@@ -64,19 +162,15 @@
 		"/home/maestro/Workspace/wiznet_conf/libs/data_unpacker.py",
 		"/home/maestro/Workspace/wiznet_conf/libs/wiz_lib.py",
 		"/home/maestro/Workspace/wiznet_conf/main.py",
-		"/home/maestro/Workspace/Sfoti.py/src/src/urls.py",
 		"/home/maestro/Workspace/web_portfolio/README.md",
 		"/home/maestro/Workspace/web_portfolio/pages/academic_background.html",
-		"/home/maestro/Workspace/web_portfolio/index.html",
 		"/home/maestro/Workspace/web_portfolio/default.css",
 		"/home/maestro/Workspace/web_portfolio/pages/experience.html",
 		"/home/maestro/Workspace/web_portfolio/fonts.css",
 		"/home/maestro/Workspace/Sfoti.py/src/artists/models.py",
 		"/home/maestro/Workspace/Sfoti.py/src/albums/models.py",
-		"/home/maestro/Workspace/Sfoti.py/src/tracks/models.py",
 		"/home/maestro/Workspace/Sfoti.py/src/albums/admin.py",
 		"/home/maestro/Workspace/Sfoti.py/src/artists/admin.py",
-		"/home/maestro/Workspace/Sfoti.py/src/tracks/admin.py",
 		"/home/maestro/Workspace/Sfoti.py/src/tracks/migrations/0001_initial.py",
 		"/home/maestro/Workspace/templated-privy/index.html",
 		"/home/maestro/Workspace/templated-privy/license.txt",
@@ -86,8 +180,6 @@
 		"/home/maestro/Workspace/wiznet_conf/main_GUI.py",
 		"/home/maestro/Workspace/mejorandogit/propuesta.txt",
 		"/home/maestro/Workspace/mejorandogit-master/index.html",
-		"/home/maestro/Workspace/wiznet_conf/credits.txt",
-		"/home/maestro/Workspace/wiznet_conf/README.md",
 		"/home/maestro/Workspace/wx_devel/app1.py",
 		"/home/maestro/Workspace/README.txt",
 		"/home/maestro/Workspace/mejorandogit-master/stylesheets/styles.css",
@@ -110,7 +202,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -124,6 +216,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hexdump",
 			"hexd",
 			"#!/",
 			"featur",
@@ -158,8 +251,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/actions.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -198,7 +322,7 @@
 	{
 		"height": 0.0
 	},
-	"project": "admin.sublime-project",
+	"project": "sfotipy.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -214,11 +338,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
