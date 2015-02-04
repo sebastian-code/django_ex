@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"model",
+				"models	import"
+			],
+			[
+				"cla",
+				"class	New Class"
+			],
+			[
+				"Tra",
+				"TrackInLine	class"
+			],
+			[
+				"Artis",
+				"ArtistAdmin	class"
+			],
+			[
+				"track",
+				"track_file"
+			],
+			[
 				"View",
 				"View"
 			],
@@ -72,10 +92,34 @@
 	"buffers":
 	[
 		{
-			"file": "/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/actions.py",
+			"file": "userprofiles/views.py",
 			"settings":
 			{
-				"buffer_size": 1972,
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tracks/models.py",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "artists/models.py",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "albums/models.py",
+			"settings":
+			{
+				"buffer_size": 261,
 				"line_ending": "Unix"
 			}
 		}
@@ -83,7 +127,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 232.0,
+		"height": 267.0,
 		"selected_items":
 		[
 			[
@@ -103,7 +147,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -125,15 +169,32 @@
 	"expanded_folders":
 	[
 		"/home/maestro/Workspace/Sfoti.py",
-		"/home/maestro/Workspace/Sfoti.py/Sfotipy",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/templates"
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy"
 	],
 	"file_history":
 	[
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/admin.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/admin.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/settings.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/urls.py",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/templates/maintenance_off.html",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/base/tasks/main.yml",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/templates/artists.html",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/axes/management/commands/axes_reset.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/actions.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/__init__.py",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/migrations/0002_artist_favorite_songs.py",
+		"/home/maestro/Workspace/wx_devel/App1.wxg",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/.gitignore",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/urls.py",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/encodings/string_escape.py",
+		"/home/maestro/Workspace/wx_devel/simple.py",
+		"/home/maestro/Workspace/Sfoti.py/django-avanzado/userprofiles/urls.py",
+		"/home/maestro/Workspace/Sfoti.py/django-avanzado/artists/models.py",
+		"/home/maestro/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/maestro/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/urls.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/login.html",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/.gitignore",
 		"/home/maestro/Workspace/Sfoti.py/src/.gitignore",
 		"/home/maestro/Workspace/dialisyst_dev/.gitignore",
 		"/home/maestro/Workspace/wiznet_conf/.gitignore",
@@ -251,16 +312,101 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/actions.py",
+					"file": "userprofiles/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tracks/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "artists/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "albums/models.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1972,
+						"buffer_size": 261,
 						"regions":
 						{
 						},
@@ -273,15 +419,13 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -333,6 +477,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"artmode",
+				"Sfoti.py/src_sfotipy/artists/models.py"
+			],
+			[
+				"artis",
+				"Sfoti.py/src_sfotipy/artists/admin.py"
+			],
+			[
+				"sett",
+				"Sfoti.py/src_sfotipy/src/settings.py"
+			]
 		],
 		"width": 0.0
 	},
@@ -360,7 +516,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 193.0,
+	"side_bar_width": 218.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
