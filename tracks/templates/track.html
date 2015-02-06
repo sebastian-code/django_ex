@@ -13,9 +13,11 @@
 			<li>
 				<a href="/">Inicio</a>
 			</li>
+			{% for track in tracks %}
 			<li>
-				<a href="/tracks/Happy">Happy</a>
+				<a href="/">{{track.title}}</a>
 			</li>
+			{% endfor %}
 		</ul>
 		<p>Title: {{track.title}}</p>
 		<p>Order: {{track.order}}</p>
