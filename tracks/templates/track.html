@@ -15,7 +15,8 @@
 			</li>
 			{% for track in tracks %}
 			<li>
-				<a href="/">{{track.title}}</a>
+				<a href="{{track.get_absolute_url}}">{{track.title}}</a>
+				{% if track == selected_track %} **** {% endif %}
 			</li>
 			{% endfor %}
 		</ul>
