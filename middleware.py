@@ -10,6 +10,6 @@ class PaisMiddleware():
 	"""docstring for paisMiddleware"""
 	def process_request(self, request):
 		pais = de_donde_vengo(request)
-		if pais == 'Mexico':
-			return redirect('http://mejorando.la')
+		# if pais == 'Mexico':
+		# 	return redirect('http://mejorando.la')
 		
