@@ -3,6 +3,8 @@ import json
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 
+from rest_framework import viewsets
+
 from .models import Track
 
 def track_view(request, title):
@@ -25,3 +27,6 @@ def track_view(request, title):
 	# return HttpResponse(json_data, content_type='application/json')
 
 	return render(request, 'track.html', {'track': track, 'bio': bio})
+
+class TrackViewSet(viewsets.ModelViewSet):
+	model = Track
