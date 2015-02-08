@@ -1,10 +1,15 @@
 from django.shortcuts import render
 from django.views.generic.detail import DetailView
+from django.views.generic import ListView
 
 from .models import Artist
 
 class ArtistDetailView(DetailView):
 	model = Artist
-	context_object_name = 'artist'
-	def get_template_names(self):
-		return 'artist.html'
+	context_object_name = 'fav_artist'
+	template_name = 'artist.html'
+
+class ArtistListView(ListView):
+	model = Artist
+	context_object_name = 'artists'
+	template_name = 'artists.html'

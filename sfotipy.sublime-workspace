@@ -100,74 +100,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/settings.py",
+			"file": "/home/maestro/Workspace/glucose-tracker/ansible/Vagrantfile",
 			"settings":
 			{
-				"buffer_size": 2558,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "artists/views.py",
-			"settings":
-			{
-				"buffer_size": 224,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "context_processors.py",
-			"settings":
-			{
-				"buffer_size": 325,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "tracks/templates/track.html",
-			"settings":
-			{
-				"buffer_size": 800,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "tracks/models.py",
-			"settings":
-			{
-				"buffer_size": 682,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "middleware.py",
-			"settings":
-			{
-				"buffer_size": 356,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/urls.py",
-			"settings":
-			{
-				"buffer_size": 731,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "artists/admin.py",
-			"settings":
-			{
-				"buffer_size": 511,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "tracks/views.py",
-			"settings":
-			{
-				"buffer_size": 572,
+				"buffer_size": 1056,
 				"line_ending": "Unix"
 			}
 		}
@@ -216,29 +152,40 @@
 	},
 	"expanded_folders":
 	[
-		"/home/maestro/Workspace/Sfoti.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/templates",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/templates"
+		"/home/maestro/Workspace/glucose-tracker",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/base",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/base/tasks",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/core",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists"
 	],
 	"file_history":
 	[
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/views.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/tests.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/templates/artist.html",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/models.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/middleware.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/urls.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/settings.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/context_processors.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/admin.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/views.py",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/axes/management/commands/axes_reset.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/templates/track.html",
 		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/models.py",
 		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/templates/maintenance_off.html",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/IPython/extensions/tests/test_rmagic.py",
 		"/home/maestro/Workspace/dialisyst_dev/temp_read.txt",
 		"/home/maestro/Workspace/dialisyst_dev/test.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/models.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/models.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/views.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/albums/admin.py",
 		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/albums/templates/album_detail.html",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/crispy_forms/templatetags/crispy_forms_tags.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/sfotipy.sublime-project",
 		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/tasks/set_file_permissions.yml",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/admin.py",
 		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/admin.py",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_static.py",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/grappelli/templates/admin/search_form.html",
@@ -246,13 +193,10 @@
 		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/tasks/setup_supervisor.yml",
 		"/home/maestro/Workspace/Sfoti.py/Sfotipy/venv/lib/python2.7/site-packages/markdown/extensions/smart_strong.py",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/pytz/zoneinfo/America/St_Thomas",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/settings.py",
 		"/home/maestro/Workspace/dialisyst_dev/libs/str_transform.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/admin.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/urls.py",
 		"/home/maestro/Workspace/glucose-tracker/ansible/roles/base/tasks/main.yml",
 		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/templates/artists.html",
-		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/axes/management/commands/axes_reset.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/actions.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/__init__.py",
 		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/migrations/0002_artist_favorite_songs.py",
@@ -383,264 +327,37 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/settings.py",
-					"semi_transient": false,
+					"file": "/home/maestro/Workspace/glucose-tracker/ansible/Vagrantfile",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2558,
+						"buffer_size": 1056,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1743,
-								1743
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 918.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "artists/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "context_processors.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								202,
-								202
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 51.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "tracks/templates/track.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 800,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								499
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "tracks/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 682,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								380,
-								380
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": -0.0,
-						"translation.y": 102.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "middleware.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								351,
-								351
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 731,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								410,
-								410
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 51.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "artists/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 511,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								445,
-								445
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 102.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "tracks/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 572,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								507,
-								507
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 255.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -692,6 +409,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"artist",
+				"Sfoti.py/src_sfotipy/artists/templates/artist.html"
+			],
 			[
 				"tramode",
 				"Sfoti.py/src_sfotipy/tracks/models.py"
