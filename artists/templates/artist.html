@@ -1,1 +1,11 @@
-{{artist.first_name}}
+{% if fav_artist %}
+Pagina de artista:
+{{fav_artist.first_name}} {{fav_artist.last_name}}
+{% load static from staticfiles %}
+{% else %}
+Listado de artistas:
+{% for a in artists %}
+{{a}}
+{% endfor %}
+{% endif %}
+<img src="{% static "screenshot.png" %}"/>

@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"STATIC",
+				"STATICFILES_STORAGE"
+			],
+			[
+				"static",
+				"staticfiles"
+			],
+			[
+				"STATICFILES",
+				"STATICFILES_FINDERS"
+			],
+			[
+				"la",
+				"last_name	statement"
+			],
+			[
+				"tra",
+				"tracks"
+			],
+			[
+				"Tr",
+				"TrackViewSet	class"
+			],
+			[
+				"trac",
+				"tracks	module"
+			],
+			[
+				"class",
+				"class	keyword"
+			],
+			[
+				"Artis",
+				"ArtistSerializer	class"
+			],
+			[
+				"Albu",
+				"AlbumViewSet	class"
+			],
+			[
+				"view",
+				"views	module"
+			],
+			[
+				"artist",
+				"artists"
+			],
+			[
+				"Ar",
+				"ArtistViewSet	class"
+			],
+			[
+				"Arist",
+				"ArtistListView	class"
+			],
+			[
+				"vie",
+				"viewsets	import"
+			],
+			[
 				"DJANGO",
 				"django"
 			],
@@ -24,10 +84,6 @@
 				"TrackInLine	class"
 			],
 			[
-				"Artis",
-				"ArtistAdmin	class"
-			],
-			[
 				"track",
 				"track_file"
 			],
@@ -38,14 +94,6 @@
 			[
 				"__",
 				"__file__"
-			],
-			[
-				"artist",
-				"artist__first_name"
-			],
-			[
-				"tra",
-				"TrackAdmin"
 			],
 			[
 				"try",
@@ -99,14 +147,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/maestro/Workspace/glucose-tracker/ansible/Vagrantfile",
-			"settings":
-			{
-				"buffer_size": 1056,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -152,40 +192,56 @@
 	},
 	"expanded_folders":
 	[
-		"/home/maestro/Workspace/glucose-tracker",
-		"/home/maestro/Workspace/glucose-tracker/ansible/roles",
-		"/home/maestro/Workspace/glucose-tracker/ansible/roles/base",
-		"/home/maestro/Workspace/glucose-tracker/ansible/roles/base/tasks",
 		"/home/maestro/Workspace/glucose-tracker/glucosetracker",
-		"/home/maestro/Workspace/glucose-tracker/glucosetracker/core",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists"
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/settings",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/templates/subscribers/email",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/templates"
 	],
 	"file_history":
 	[
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/views.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/tests.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/templates/artist.html",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/models.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/middleware.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/urls.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/settings.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/context_processors.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/admin.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/views.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/views.py",
-		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/axes/management/commands/axes_reset.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/albums/views.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/src/urls.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/serializers.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/models.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/models.py",
+		"/home/maestro/Workspace/glucose-tracker/env/include/python2.7/traceback.h",
+		"/home/maestro/Workspace/glucose-tracker/scripts/run_twitter_auto_follow.sh",
+		"/home/maestro/Workspace/dialisyst_dev/temp_read.txt",
+		"/home/maestro/Workspace/dialisyst_dev/test.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/admin.py",
+		"/home/maestro/Workspace/glucose-tracker/ansible/Vagrantfile",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/tracks/templates/track.html",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/glucosetracker.sqlite",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/tasks/setup_git_repo.yml",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/boto/manage/volume.py",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/albums/templates/albums.html",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/albums/templates/album_detail.html",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/IPython/html/static/components/marked/bin/marked",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/static/datatables/extensions/TableTools/examples/alter_buttons.html",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/storages/backends/apache_libcloud.py",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/reportlab/graphics/barcode/fourstate.py",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/static/datatables/extensions/Responsive/examples/styling/foundation.html",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/sfotipy.sublime-project",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/tasks/set_file_permissions.yml",
+		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/urls.py",
+		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/templates/virtualenv_postactivate.j2",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/migrations/0002_artist_favorite_songs.py",
+		"/home/maestro/Workspace/glucose-tracker/README.md",
+		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/sfotipy/settings.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/tests.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/middleware.py",
+		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/context_processors.py",
+		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/axes/management/commands/axes_reset.py",
 		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/models.py",
 		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/templates/maintenance_off.html",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/IPython/extensions/tests/test_rmagic.py",
-		"/home/maestro/Workspace/dialisyst_dev/temp_read.txt",
-		"/home/maestro/Workspace/dialisyst_dev/test.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/models.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/userprofiles/views.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/albums/admin.py",
-		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/albums/templates/album_detail.html",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/crispy_forms/templatetags/crispy_forms_tags.py",
-		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/sfotipy.sublime-project",
-		"/home/maestro/Workspace/glucose-tracker/ansible/roles/web/tasks/set_file_permissions.yml",
 		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/admin.py",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_static.py",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/site-packages/grappelli/templates/admin/search_form.html",
@@ -199,10 +255,8 @@
 		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/templates/artists.html",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/actions.py",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/artists/__init__.py",
-		"/home/maestro/Workspace/Sfoti.py/Sfotipy/sfotipy/artists/migrations/0002_artist_favorite_songs.py",
 		"/home/maestro/Workspace/wx_devel/App1.wxg",
 		"/home/maestro/Workspace/Sfoti.py/src_sfotipy/.gitignore",
-		"/home/maestro/Workspace/glucose-tracker/glucosetracker/accounts/urls.py",
 		"/home/maestro/Workspace/glucose-tracker/env/lib/python2.7/encodings/string_escape.py",
 		"/home/maestro/Workspace/wx_devel/simple.py",
 		"/home/maestro/Workspace/Sfoti.py/django-avanzado/userprofiles/urls.py",
@@ -272,9 +326,7 @@
 		"/home/maestro/Workspace/dialisyst_dev/dialisyst.py",
 		"/home/maestro/Workspace/dialisyst_dev/config.cfg",
 		"/home/maestro/Workspace/DialiSyst/dialisyst_v_15/dialisyst.py",
-		"/home/maestro/Workspace/dialisyst_dev/server.py",
-		"/home/maestro/Workspace/devcode_la/3enraya.py",
-		"/home/maestro/Workspace/wxWidget_GUI/nominimizebox.py"
+		"/home/maestro/Workspace/dialisyst_dev/server.py"
 	],
 	"find":
 	{
@@ -327,39 +379,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/maestro/Workspace/glucose-tracker/ansible/Vagrantfile",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1056,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -410,20 +431,40 @@
 		"selected_items":
 		[
 			[
-				"artist",
-				"Sfoti.py/src_sfotipy/artists/templates/artist.html"
-			],
-			[
 				"tramode",
 				"Sfoti.py/src_sfotipy/tracks/models.py"
 			],
 			[
-				"sfotadm",
-				"Sfoti.py/src_sfotipy/artists/admin.py"
+				"artismo",
+				"Sfoti.py/src_sfotipy/artists/models.py"
+			],
+			[
+				"trackview",
+				"Sfoti.py/src_sfotipy/tracks/views.py"
+			],
+			[
+				"albmview",
+				"Sfoti.py/src_sfotipy/albums/views.py"
+			],
+			[
+				"sfourl",
+				"Sfoti.py/src_sfotipy/src/urls.py"
+			],
+			[
+				"artview",
+				"Sfoti.py/src_sfotipy/artists/views.py"
 			],
 			[
 				"sett",
 				"Sfoti.py/src_sfotipy/src/settings.py"
+			],
+			[
+				"artist",
+				"Sfoti.py/src_sfotipy/artists/templates/artist.html"
+			],
+			[
+				"sfotadm",
+				"Sfoti.py/src_sfotipy/artists/admin.py"
 			],
 			[
 				"artmode",
