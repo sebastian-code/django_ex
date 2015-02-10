@@ -5,10 +5,10 @@ from django.shortcuts import render
 from .forms import UserCreationEmailForm, EmailAuthenticationForm
 from django.contrib.auth import login
 
-# class LoginView(View):
+class LoginView(View):
 	
-# 	def get(self, request, *args, **kwargs):
-# 		return HttpResponse('LoginView!!')
+	def get(self, request, *args, **kwargs):
+		return HttpResponse('LoginView!!')
 
 
 def signup(request):

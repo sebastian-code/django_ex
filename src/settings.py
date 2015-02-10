@@ -10,9 +10,12 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os
+import djcelery
+
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
-
+djcelery.setup_loader()
+BROKER_URL = 'redis://localhost:6379/0'
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
 
@@ -55,6 +58,7 @@ INSTALLED_APPS = (
     'albums',
     'artists',
     'rest_framework',
+    'djcelery',
 )
 
 MIDDLEWARE_CLASSES = (
